@@ -86,8 +86,7 @@ const Contact = () => {
                     <Mail className="w-4 h-4 mr-2 text-primary" />
                     <span className="font-semibold">Email</span>
                   </div>
-                  <p className="text-muted-foreground">sales@rrtruckparts.com</p>
-                  <p className="text-muted-foreground">support@rrtruckparts.com</p>
+                  <p className="text-muted-foreground">risingrocketsllc@gmail.com</p>
                 </div>
                 
                 <div>
@@ -96,8 +95,9 @@ const Contact = () => {
                     <span className="font-semibold">Address</span>
                   </div>
                   <p className="text-muted-foreground">
-                    1234 Industrial Blvd<br />
-                    Trucking City, TX 75001
+                    Rising rockets llc<br />
+                    20024 85th Ave S Building C,<br />
+                    Kent, WA 98031, United States
                   </p>
                 </div>
                 
