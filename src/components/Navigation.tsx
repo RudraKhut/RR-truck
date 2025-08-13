@@ -55,7 +55,7 @@ const Navigation = () => {
             </div>
             <div className="flex items-center space-x-2 text-sm text-muted-foreground">
               <Mail className="w-4 h-4" />
-              <span>sales@rrtruckparts.com</span>
+              <span>risingrocketsllc@gmail.com</span>
             </div>
           </div>
 
@@ -79,7 +79,7 @@ const Navigation = () => {
                   </div>
                   <div className="flex items-center space-x-2 text-sm text-muted-foreground">
                     <Mail className="w-4 h-4" />
-                    <span>sales@rrtruckparts.com</span>
+                    <span>risingrocketsllc@gmail.com</span>
                   </div>
                 </div>
               </div>
